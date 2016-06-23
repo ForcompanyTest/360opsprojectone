@@ -1,0 +1,4 @@
+题目为passwdcache
+对于网页登录考虑使用keepassx
+对于ssh考虑使用密钥登录
+对于权限可以使用chmod -l 或者 chmod 700
